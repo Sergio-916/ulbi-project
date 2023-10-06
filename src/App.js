@@ -9,7 +9,7 @@ function App() {
   const [posts, setPosts] = useState([
   { id: 1, title: 'Javascript', body: 'Description' },
   { id: 2, title: 'Javascript 2', body: 'Description' },
-
+  ])
   return (
     <div className="App">
 
